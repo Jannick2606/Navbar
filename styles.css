@@ -83,7 +83,6 @@ ul {
     ul {
         width: 100%;
         flex-direction: column;
-        display: flex;
     }
     .item {
         text-align: center;
