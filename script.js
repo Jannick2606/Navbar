@@ -1,9 +1,9 @@
-const toggleButton = document.getElementsByClassName('menu-toggle')[0]
-const navbarItems = document.getElementsByClassName('item')
-const menuLines = document.getElementsByClassName('line')
-var clicked = false
-var navbarHeight = 50
-var navItemDelay = 50
+const toggleButton = document.getElementsByClassName('menu-toggle')[0];
+const navbarItems = document.getElementsByClassName('item');
+const menuLines = document.getElementsByClassName('line');
+var clicked = false;
+var navbarHeight = 50;
+var navItemDelay = 50;
 
 toggleButton.addEventListener('click', () => {
 
